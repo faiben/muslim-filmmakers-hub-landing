@@ -17,7 +17,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-700 pt-8">
           <p className="text-gray-400">
-            © 2024 Islame Creative Hub. All rights reserved.
+            © 2025 Muslim Filmmakers Hub. All rights reserved.
           </p>
         </div>
       </div>

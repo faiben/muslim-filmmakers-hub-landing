@@ -4,7 +4,7 @@ import { Film, Users } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section className="relative py-20 px-4 overflow-hidden">
+    <section className="relative py-12 px-4 overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-5">
         <div className="absolute top-20 left-10 w-32 h-32 border-2 border-blue-600 rotate-45"></div>
