@@ -18,9 +18,9 @@ const Hero = () => {
           <Users className="w-12 h-12 text-amber-500" />
         </div>
         
-        <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
+        <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
           <span className="bg-gradient-to-r from-blue-600 to-amber-500 bg-clip-text text-transparent">
-            ISLAM CREATIVE HUB
+            MUSLIM FILMMAKERS CREATIVE HUB
           </span>
         </h1>
         
